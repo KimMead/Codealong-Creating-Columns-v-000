@@ -43,7 +43,7 @@ figcaption {
 /* ID selector (apply to one unique element per page) */
 
 #logo { /* select elements with id="logo" */
-  
+
 }
 
 /* Descendent Selector */
@@ -61,6 +61,7 @@ figcaption {
 #details a:link, #details a:visited {
   color: black;
   text-decoration: none;
+  width: 20%
 }
 
 #details a:hover {
@@ -79,7 +80,7 @@ img, video, audio {
 .wrapper {
   width: 960px;
   margin: 0 auto;
-  
+
 
 }
 
