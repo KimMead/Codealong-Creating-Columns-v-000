@@ -61,7 +61,9 @@ figcaption {
 #details a:link, #details a:visited {
   color: black;
   text-decoration: none;
-
+  top: 0;
+  left: 0;
+  width: 100%;
 }
 
 #details a:hover {
